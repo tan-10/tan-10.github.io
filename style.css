@@ -216,3 +216,8 @@ img.icon{
 .transparent{
   color: #ffffff00;
 }
+img.blog{
+  display: block;
+  width: 85%;
+  margin: 10px auto;
+}
